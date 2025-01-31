@@ -3,7 +3,7 @@
 ### Ferramentas
 - Oracle VirtualBox Versão 7.1.4 r165100 (Qt6.5.3)
 - Kali Linux 2024.4
-- setoolkit
+- Social-Engineer Toolkit (SET)
 
 ### Configurando a rede da VirtualBox
 - Acesso configurações: ''' Right Ctrl + S '''
